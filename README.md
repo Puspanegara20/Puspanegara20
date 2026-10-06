@@ -1,10 +1,5 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=140&section=header&text=Pande%20Putu%20Puspanegara&fontSize=38&fontColor=FF0000&fontAlignY=45&desc=Front-end%20Developer&descSize=16&descColor=FFFFFF&descAlignY=68" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Front--end-FF0000?style=flat-square&labelColor=000000" />
-  <img src="https://img.shields.io/badge/Universitas%20Mataram-FF0000?style=flat-square&labelColor=000000" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0d0d0d&height=140&section=header&text=Pande%20Putu%20Puspanegara&fontSize=38&fontColor=B22222&fontAlignY=45&desc=Full-stack%20Developer&descSize=16&descColor=E5E5E5&descAlignY=68" />
 </p>
 
 ---
@@ -12,18 +7,28 @@
 ### About
 
 Perkenalkan nama saya **Pande Putu Puspanegara**.
-Saya seorang **Front-end Developer** dengan dibekali materi yang saya pelajari dari Universitas Mataram.
+Saya seorang **Full-stack Developer** dengan dibekali materi yang saya pelajari dari Universitas Mataram.
 
 ---
 
 ### Tech Stack
 
+**Front-end**
+
 <p>
-  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=FF0000" />
-  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=FF0000" />
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=FF0000" />
-  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=FF0000" />
-  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=FF0000" />
+  <img src="https://img.shields.io/badge/HTML5-1a1a1a?style=flat-square&logo=html5&logoColor=E5E5E5" />
+  <img src="https://img.shields.io/badge/CSS3-1a1a1a?style=flat-square&logo=css3&logoColor=E5E5E5" />
+  <img src="https://img.shields.io/badge/JavaScript-1a1a1a?style=flat-square&logo=javascript&logoColor=E5E5E5" />
+  <img src="https://img.shields.io/badge/React-1a1a1a?style=flat-square&logo=react&logoColor=E5E5E5" />
+</p>
+
+**Back-end & Tools**
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-1a1a1a?style=flat-square&logo=nodedotjs&logoColor=E5E5E5" />
+  <img src="https://img.shields.io/badge/PHP-1a1a1a?style=flat-square&logo=php&logoColor=E5E5E5" />
+  <img src="https://img.shields.io/badge/MySQL-1a1a1a?style=flat-square&logo=mysql&logoColor=E5E5E5" />
+  <img src="https://img.shields.io/badge/Git-1a1a1a?style=flat-square&logo=git&logoColor=E5E5E5" />
 </p>
 
 ---
@@ -32,8 +37,8 @@ Saya seorang **Front-end Developer** dengan dibekali materi yang saya pelajari d
 
 <p align="left">
 <a href="https://github.com/Puspanegara20">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Puspanegara20&show_icons=true&include_all_commits=true&count_private=true&bg_color=000000&title_color=FF0000&text_color=FFFFFF&icon_color=FF0000&border_color=FF0000&ring_color=FF0000"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Puspanegara20&layout=compact&bg_color=000000&title_color=FF0000&text_color=FFFFFF&border_color=FF0000"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Puspanegara20&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d0d0d&title_color=B22222&text_color=E5E5E5&icon_color=B22222&border_color=2a2a2a&ring_color=B22222"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Puspanegara20&layout=compact&bg_color=0d0d0d&title_color=B22222&text_color=E5E5E5&border_color=2a2a2a"/>
 </a>
 </p>
 
@@ -42,9 +47,5 @@ Saya seorang **Front-end Developer** dengan dibekali materi yang saya pelajari d
 ### Contact
 
 <a href="https://instagram.com/pandepuspanegara">
-  <img src="https://img.shields.io/badge/Instagram-@pandepuspanegara-FF0000?style=for-the-badge&logo=instagram&logoColor=black&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Instagram-@pandepuspanegara-1a1a1a?style=flat-square&logo=instagram&logoColor=E5E5E5" />
 </a>
-
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=FF0000&height=4&section=footer" />
-</p>
